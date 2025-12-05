@@ -1,1 +1,1 @@
-nevím co sem mám dát
+setup specifikací a instalace apache + SQL, auto přihlášení přes klíč a instalace frontendu + serveru + agent2
