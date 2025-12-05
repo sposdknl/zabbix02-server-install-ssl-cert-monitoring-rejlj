@@ -1,0 +1,1 @@
+nevím co sem mám dát
