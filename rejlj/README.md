@@ -24,12 +24,12 @@ Vagrant.configure("2") do |config|
 
     SHELL
 
-#     config.vm.provision "shell", path: "install-zabbix-agent2.sh" //zabbix agent + server install
-
-#     config.vm.provision "shell", path: "configure-zabbix-agent2.sh" //zabix config
+#     config.vm.provision "shell", path: "install-zabbix-agent2.sh" 
+//zabbix agent + server install
+#     config.vm.provision "shell", path: "configure-zabbix-agent2.sh" 
+//zabbix config
 
 end
-
 ----------------------------------------------------------------------------------------------------------------------
 //zabbix instalace
 
@@ -63,7 +63,6 @@ mysql> set global log_bin_trust_function_creators = 0;
 mysql> quit;
 
 # EOF
-
 ----------------------------------------------------------------------------------------------------------------------
 //configurace zabbix
 
