@@ -24,10 +24,9 @@ Vagrant.configure("2") do |config|
 
     SHELL
 
-#     config.vm.provision "shell", path: "install-zabbix-agent2.sh" 
-//zabbix agent + server install
-#     config.vm.provision "shell", path: "configure-zabbix-agent2.sh"
-//zabix config
+#     config.vm.provision "shell", path: "install-zabbix-agent2.sh" //zabbix agent + server install
+
+#     config.vm.provision "shell", path: "configure-zabbix-agent2.sh" //zabix config
 
 end
 
